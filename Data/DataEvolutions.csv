@@ -32,7 +32,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 48,Venonat,Venomoth,31,0,None,Any,level,,,
 50,Diglett,Dugtrio,26,0,None,Any,level,,,
 52,Meowth,Persian,28,0,None,Any,level,,,
-52,Meowth,Perrserker,28,0,None,Any,level,,,
+52,Meowth,Perrserker,28,0,None,Night,level,,Regional,X
 54,Psyduck,Golduck,33,0,None,Any,level,,,
 56,Mankey,Primeape,28,0,None,Any,level,,,
 58,Growlithe,Arcanine,1,0,None,Any,item,FireStone,,
@@ -88,7 +88,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 133,Eevee,Umbreon,1,220,None,Night,level,,,
 133,Eevee,Leafeon,1,0,None,Any,item,LeafStone,,X
 133,Eevee,Glaceon,1,0,None,Any,item,IceStone,,X
-133,Eevee,Sylveon,1,0,None,Any,level,,fairy type move + happy,X
+133,Eevee,Sylveon,100,0,None,Any,level,,fairy type move + happy,X
 137,Porygon,Porygon2_,1,0,None,Any,item,Upgrade,,
 138,Omanyte,Omastar,40,0,None,Any,level,,,
 140,Kabuto,Kabutops,40,0,None,Any,level,,,
