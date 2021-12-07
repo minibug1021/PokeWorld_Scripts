@@ -32,6 +32,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 48,Venonat,Venomoth,31,0,None,Any,level,,,
 50,Diglett,Dugtrio,26,0,None,Any,level,,,
 52,Meowth,Persian,28,0,None,Any,level,,,
+52,Meowth,Perrserker,28,0,None,Any,level,,,
 54,Psyduck,Golduck,33,0,None,Any,level,,,
 56,Mankey,Primeape,28,0,None,Any,level,,,
 58,Growlithe,Arcanine,1,0,None,Any,item,FireStone,,
@@ -52,6 +53,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 79,Slowpoke,Slowbro,37,0,None,Any,level,,,
 81,Magnemite,Magneton,30,0,None,Any,level,,,
 82,Magneton,Magnezone,1,0,None,Any,item,ThunderStone,,X
+83,Farfetchd,Sirfetchd,30,0,None,Any,level,,3 Crits in one battle,X
 84,Doduo,Dodrio,31,0,None,Any,level,,,
 86,Seel,Dewgong,34,0,None,Any,level,,,
 88,Grimer,Muk,38,0,None,Any,level,,,
@@ -74,6 +76,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 117,Seadra,Kingdra,45,0,None,Any,level,,,X
 118,Goldeen,Seaking,33,0,None,Any,level,,,
 120,Staryu,Starmie,1,0,None,Any,item,WaterStone,,
+122,MrMime,MrRime,42,0,None,Any,level,,,
 123,Scyther,Scizor,40,0,None,Any,level,,,X
 125,Electabuzz,Electivire,1,0,None,Any,item,ThunderStone,,X
 126,Magmar,Magmortar,1,0,None,Any,item,FireStone,,X
@@ -85,6 +88,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 133,Eevee,Umbreon,1,220,None,Night,level,,,
 133,Eevee,Leafeon,1,0,None,Any,item,LeafStone,,X
 133,Eevee,Glaceon,1,0,None,Any,item,IceStone,,X
+133,Eevee,Sylveon,1,0,None,Any,level,,fairy type move + happy,X
 137,Porygon,Porygon2_,1,0,None,Any,item,Upgrade,,
 138,Omanyte,Omastar,40,0,None,Any,level,,,
 140,Kabuto,Kabutops,40,0,None,Any,level,,,
@@ -126,6 +130,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 218,Slugma,Magcargo,38,0,None,Any,level,,,
 220,Swinub,Piloswine,33,0,None,Any,level,,,
 221,Piloswine,Mamoswine,1,0,None,Any,item,IceStone,,X
+222,Corsola,Cursola,38,0,None,Any,level,,,
 223,Remoraid,Octillery,25,0,None,Any,level,,,
 228,Houndour,Houndoom,24,0,None,Any,level,,,
 231,Phanpy,Donphan,25,0,None,Any,level,,,
@@ -146,6 +151,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 259,Marshtomp,Swampert,36,0,None,Any,level,,,
 261,Poochyena,Mightyena,18,0,None,Any,level,,,
 263,Zigzagoon,Linoone,20,0,None,Any,level,,,
+264,Linoone,Obstagoon,35,0,None,Any,level,,,
 265,Wurmple,Cascoon,7,0,None,Night,level,,,X
 265,Wurmple,Silcoon,7,0,None,Day,level,,,X
 266,Silcoon,Beautifly,10,0,None,Any,level,,,
@@ -234,7 +240,7 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 436,Bronzor,Bronzong,33,0,None,Any,level,,,
 438,Bonsly,Sudowoodo,1,220,None,Any,level,,,X
 439,MimeJr,MrMime,1,220,None,Any,level,,,X
-440,Happiny,Chansey,1,220,None,Any,level,,,
+440,Happiny,Chansey,1,220,None,Any,level,,,X
 443,Gible,Gabite,24,0,None,Any,level,,,
 444,Gabite,Garchomp,48,0,None,Any,level,,,
 446,Munchlax,Snorlax,1,220,None,Any,level,,,
@@ -243,5 +249,183 @@ DexNumber,EvolvingFrom,EvolvingTo,Level,Happinness,Gender,Time,EvolutionRequirem
 451,Skorupi,Drapion,40,0,None,Any,level,,,
 453,Croagunk,Toxicroak,37,0,None,Any,level,,,
 456,Finneon,Lumineon,31,0,None,Any,level,,,
-458,Mantyke,Mantine,1,220,None,Any,level,,with Remoraid in party,
+458,Mantyke,Mantine,1,220,None,Any,level,,withï¿½Remoraidï¿½in party,
 459,Snover,Abomasnow,40,0,None,Any,level,,,
+495,Snivy,Servine,17,0,None,Any,level,,,
+496,Servine,Serperior,36,0,None,Any,level,,,
+498,Tepig,Pignite,17,0,None,Any,level,,,
+499,Pignite,Emboar,36,0,None,Any,level,,,
+501,Oshawott,Dewott,17,0,None,Any,level,,,
+502,Dewott,Samurott,36,0,None,Any,level,,,
+504,Patrat,Watchog,20,0,None,Any,level,,,
+506,Lillipup,Herdier,16,0,None,Any,level,,,
+507,Herdier,Stoutland,32,0,None,Any,level,,,
+509,Purrloin,Liepard,20,0,None,Any,level,,,
+511,Pansage,Simisage,1,0,None,Any,item,LeafStone,,
+513,Pansear,Simisear,1,0,None,Any,item,FireStone,,
+515,Panpour,Simipour,1,0,None,Any,item,WaterStone,,
+517,Munna,Musharna,1,0,None,Any,item,MoonStone,,
+519,Pidove,Tranquill,21,0,None,Any,level,,,
+520,Tranquill,Unfezant,32,0,None,Any,level,,,
+522,Blitzle,Zebstrika,27,0,None,Any,level,,,
+524,Roggenrola,Boldore,25,0,None,Any,level,,,
+525,Boldore,Gigalith,1,0,None,Any,level,,,X
+527,Woobat,Swoobat,1,220,None,Any,level,,,
+529,Drilbur,Excadrill,31,0,None,Any,level,,,
+532,Timburr,Gurdurr,25,0,None,Any,level,,,
+533,Gurdurr,Conkeldurr,1,0,None,Any,level,,,X
+535,Tympole,Palpitoad,25,0,None,Any,level,,,
+536,Palpitoad,Seismitoad,36,0,None,Any,level,,,
+540,Sewaddle,Swadloon,20,0,None,Any,level,,,
+541,Swadloon,Leavanny,1,220,None,Any,level,,,
+543,Venipede,Whirlipede,22,0,None,Any,level,,,
+544,Whirlipede,Scolipede,30,0,None,Any,level,,,
+546,Cottonee,Whimsicott,1,0,None,Any,item,ShinyStone,,X
+548,Petilil,Lilligant,1,0,None,Any,item,ShinyStone,,X
+551,Sandile,Krokorok,29,0,None,Any,level,,,
+552,Krokorok,Krookodile,40,0,None,Any,level,,,
+554,Darumaka,Darmanitan,35,0,None,Any,level,,,
+557,Dwebble,Crustle,34,0,None,Any,level,,,
+559,Scraggy,Scrafty,39,0,None,Any,level,,,
+562,Yamask,Cofagrigus,34,0,None,Any,level,,,
+562,Yamask,Runerigus,1,0,None,Any,level,,,X
+564,Tirtouga,Carracosta,37,0,None,Any,level,,,
+566,Archen,Archeops,37,0,None,Any,level,,,
+568,Trubbish,Garbodor,36,0,None,Any,level,,,
+570,Zorua,Zoroark,30,0,None,Any,level,,,
+572,Minccino,Cinccino,1,0,None,Any,item,ShinyStone,,
+574,Gothita,Gothorita,32,0,None,Any,level,,,
+575,Gothorita,Gothitelle,41,0,None,Any,level,,,
+577,Solosis,Duosion,32,0,None,Any,level,,,
+578,Duosion,Reuniclus,41,0,None,Any,level,,,
+580,Ducklett,Swanna,35,0,None,Any,level,,,
+582,Vanillite,Vanillish,35,0,None,Any,level,,,
+583,Vanillish,Vanilluxe,47,0,None,Any,level,,,
+585,Deerling,Sawsbuck,34,0,None,Any,level,,,
+588,Karrablast,Escavalier,25,0,None,Any,level,,traded for shelmet,X
+590,Foongus,Amoonguss,39,0,None,Any,level,,,
+592,Frillish,Jellicent,40,0,None,Any,level,,,
+595,Joltik,Galvantula,36,0,None,Any,level,,,
+597,Ferroseed,Ferrothorn,40,0,None,Any,level,,,
+599,Klink,Klang,38,0,None,Any,level,,,
+600,Klang,Klinklang,49,0,None,Any,level,,,
+602,Tynamo,Eelektrik,39,0,None,Any,level,,,
+603,Eelektrik,Eelektross,1,0,None,Any,item,ThunderStone,,
+605,Elgyem,Beheeyem,42,0,None,Any,level,,,
+607,Litwick,Lampent,41,0,None,Any,level,,,
+608,Lampent,Chandelure,1,0,None,Any,item,DuskStone,,
+610,Axew,Fraxure,38,0,None,Any,level,,,
+611,Fraxure,Haxorus,48,0,None,Any,level,,,
+613,Cubchoo,Beartic,37,0,None,Any,level,,,
+616,Shelmet,Accelgor,25,0,None,Any,level,,traded for karrablast,X
+619,Mienfoo,Mienshao,50,0,None,Any,level,,,
+622,Golett,Golurk,43,0,None,Any,level,,,
+624,Pawniard,Bisharp,52,0,None,Any,level,,,
+627,Rufflet,Braviary,54,0,None,Any,level,,,
+629,Vullaby,Mandibuzz,54,0,None,Any,level,,,
+633,Deino,Zweilous,50,0,None,Any,level,,,
+634,Zweilous,Hydreigon,64,0,None,Any,level,,,
+636,Larvesta,Volcarona,59,0,None,Any,level,,,
+650,Chespin,Quilladin,16,0,None,Any,level,,,
+651,Quilladin,Chesnaught,36,0,None,Any,level,,,
+653,Fennekin,Braixen,16,0,None,Any,level,,,
+654,Braixen,Delphox,36,0,None,Any,level,,,
+656,Froakie,Frogadier,16,0,None,Any,level,,,
+657,Frogadier,Greninja,36,0,None,Any,level,,,
+659,Bunnelby,Diggersby,20,0,None,Any,level,,,
+661,Fletchling,Fletchinder,17,0,None,Any,level,,,
+662,Fletchinder,Talonflame,35,0,None,Any,level,,,
+664,Scatterbug,Spewpa,9,0,None,Any,level,,,
+665,Spewpa,Vivillon,12,0,None,Any,level,,,
+667,Litleo,Pyroar,35,0,None,Any,level,,,
+669,Flabebe,Floette,19,0,None,Any,level,,,
+670,Floette,Florges,1,0,None,Any,item,ShinyStone,,
+672,Skiddo,Gogoat,32,0,None,Any,level,,,
+674,Pancham,Pangoro,32,0,None,Any,level,,Dark type in party,X
+677,Espurr,Meowstic,25,0,None,Any,level,,,
+679,Honedge,Doublade,35,0,None,Any,level,,,
+680,Doublade,Aegislash,1,0,None,Any,item,DuskStone,,
+682,Spritzee,Aromatisse,30,0,None,Any,level,,holding Sachet,X
+684,Swirlix,Slurpuff,30,0,None,Any,level,,holding WhippedDream,X
+686,Inkay,Malamar,30,0,None,Any,level,,holding upside down,X
+688,Binacle,Barbaracle,39,0,None,Any,level,,,
+690,Skrelp,Dragalge,48,0,None,Any,level,,,
+692,Clauncher,Clawitzer,37,0,None,Any,level,,,
+694,Helioptile,Heliolisk,1,0,None,Any,item,ShinyStone,Sun Stone,X
+696,Tyrunt,Tyrantrum,39,0,None,day,level,,,
+698,Amaura,Aurorus,39,0,None,night,level,,,
+704,Goomy,Sliggoo,40,0,None,Any,level,,,
+705,Sliggoo,Goodra,50,0,None,Any,level,,in Rain,X
+708,Phantump,Trevenant,30,0,None,Any,level,,Trade,X
+710,Pumpkaboo,Gourgeist,30,0,None,Any,level,,Trade,X
+712,Bergmite,Avalugg,37,0,None,Any,level,,,
+714,Noibat,Noivern,48,0,None,Any,level,,,
+722,Rowlet,Dartrix,17,0,None,Any,level,,,
+723,Dartrix,Decidueye,34,0,None,Any,level,,,
+725,Litten,Torracat,17,0,None,Any,level,,,
+726,Torracat,Incineroar,34,0,None,Any,level,,,
+728,Popplio,Brionne,17,0,None,Any,level,,,
+729,Brionne,Primarina,34,0,None,Any,level,,,
+731,Pikipek,Trumbeak,14,0,None,Any,level,,,
+732,Trumbeak,Toucannon,28,0,None,Any,level,,,
+734,Yungoos,Gumshoos,20,0,None,day,level,,,
+736,Grubbin,Charjabug,20,0,None,Any,level,,,
+737,Charjabug,Vikavolt,1,0,None,Any,level,ThunderStone,Magnetic Field,X
+739,Crabrawler,Crabominable,1,0,None,Any,level,IceStone,Mount Lanakila,X
+742,Cutiefly,Ribombee,25,0,None,Any,level,,,
+744,Rockruff,Lycanroc,25,0,None,day,level,,,
+747,Mareanie,Toxapex,38,0,None,Any,level,,,
+749,Mudbray,Mudsdale,30,0,None,Any,level,,,
+751,Dewpider,Araquanid,22,0,None,Any,level,,,
+753,Fomantis,Lurantis,34,0,None,day,level,,,
+755,Morelull,Shiinotic,24,0,None,Any,level,,,
+757,Salandit,Salazzle,33,0,Female,Any,level,,,
+759,Stufful,Bewear,27,0,None,Any,level,,,
+761,Bounsweet,Steenee,18,0,None,Any,level,,,
+762,Steenee,Tsareena,32,0,None,Any,level,,level up with Stomp,X
+767,Wimpod,Golisopod,30,0,None,Any,level,,,
+769,Sandygast,Palossand,42,0,None,Any,level,,,
+772,Typenull,Silvally,1,220,None,Any,level,,,
+782,Jangmoo,Hakamoo,35,0,None,Any,level,,,
+783,Hakamoo,Kommoo,45,0,None,Any,level,,,
+789,Cosmog,Cosmoem,43,0,None,Any,level,,,
+790,Cosmoem,Solgaleo,53,0,None,Day,level,,,X
+790,Cosmoem,Lunala,53,0,None,Night,level,,,X
+803,Poipole,Naganadel,45,0,None,Any,level,,level up with Dragon Pulse,X
+808,Meltan,Melmetal,45,0,None,Any,level,,Evolves with GO Candy,X
+810,Grookey,Thwackey,16,0,None,Any,level,,,
+811,Thwackey,Rillaboom,35,0,None,Any,level,,,
+813,Scorbunny,Raboot,16,0,None,Any,level,,,
+814,Raboot,Cinderace,35,0,None,Any,level,,,
+816,Sobble,Drizzile,16,0,None,Any,level,,,
+817,Drizzile,Inteleon,35,0,None,Any,level,,,
+819,Skwovet,Greedent,24,0,None,Any,level,,,
+821,Rookidee,Corvisquire,18,0,None,Any,level,,,
+822,Corvisquire,Corviknight,38,0,None,Any,level,,,
+824,Blipbug,Dottler,10,0,None,Any,level,,,
+825,Dottler,Orbeetle,30,0,None,Any,level,,,
+827,Nickit,Thievul,18,0,None,Any,level,,,
+829,Gossifleur,Eldegoss,20,0,None,Any,level,,,
+831,Wooloo,Dubwool,24,0,None,Any,level,,,
+833,Chewtle,Drednaw,22,0,None,Any,level,,,
+835,Yamper,Boltund,25,0,None,Any,level,,,
+837,Rolycoly,Carkol,18,0,None,Any,level,,,
+838,Carkol,Coalossal,34,0,None,Any,level,,,
+840,Applin,Flapple,40,0,None,Day,level,,tart apple,X
+840,Applin,Appletun,40,0,None,Night,level,,sweet apple,X
+843,Silicobra,Sandaconda,36,0,None,Any,level,,,
+846,Arrokuda,Barraskewda,26,0,None,Any,level,,,
+848,Toxel,Toxtricity,30,0,None,Any,level,,,
+850,Sizzlipede,Centiskorch,28,0,None,Any,level,,,
+852,Clobbopus,Grapploct,30,0,None,Any,level,,level up with Taunt,X
+854,Sinistea,Polteageist,1,0,None,Any,item,ShinyStone,Cracked/Chipped Pot,X
+856,Hatenna,Hattrem,32,0,None,Any,level,,,
+857,Hattrem,Hatterene,42,0,None,Any,level,,,
+859,Impidimp,Morgrem,32,0,None,Any,level,,,
+860,Morgrem,Grimmsnarl,42,0,None,Any,level,,,
+868,Milcery,Alcremie,1,220,None,Any,level,,based on spin,X
+872,Snom,Frosmoth,1,220,None,Night,level,,,
+878,Cufant,Copperajah,34,0,None,Any,level,,,
+885,Dreepy,Drakloak,50,0,None,Any,level,,,
+886,Drakloak,Dragapult,60,0,None,Any,level,,,
+891,Kubfu,Urshifu,45,0,None,Any,level,,Interact with scrolls,X
